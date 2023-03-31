@@ -1,0 +1,4 @@
+DateTime==5.1
+dnspython==2.3.0
+ccxt==3.0.31
+pymongo==4.3.3
